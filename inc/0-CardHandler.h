@@ -15,7 +15,7 @@
 /*
  * Private Includes
  */
-
+#include <stdint.h>
 //#include "main.h"
 
 /*
