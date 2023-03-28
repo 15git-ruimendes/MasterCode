@@ -1,0 +1,216 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8c.html"><param name="Name" value="0-CardHandler.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8c.html#a49dd34562d8878a8869fb04aff32764a"><param name="Name" value="CardTester"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8c.html"><param name="Name" value="0-CardHandler.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8c.html#a5d6be83802b8fc142ecb64a79ac51753"><param name="Name" value="idBuilder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8c.html"><param name="Name" value="0-CardHandler.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8c.html#ae38fb7a9241fb63d7ba3e23f9a51496e"><param name="Name" value="idParser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a49dd34562d8878a8869fb04aff32764a"><param name="Name" value="CardTester"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a5b6cdc6363066cdaff84a22b902f893a"><param name="Name" value="ParseInputs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a4a65a58c5930ce74c16056d161c1b84a"><param name="Name" value="ParseSensors"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a97e5197bd3b9dda71508ae1701026f8b"><param name="Name" value="ParseTemperature"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#ad607a2556b080cc4afacf61febfe4bef"><param name="Name" value="RecallCard"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a5fc2c4092bef426d6750ce281cebcd42"><param name="Name" value="RecallCard_T"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#ac8002893e3291756e98843714ca5b887"><param name="Name" value="StartCard"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#ad6150a34c1f956f3d545e06f22e7ecdb"><param name="Name" value="StartCard_T"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a842e634e9f7e8edc35f9e9c068c80f1d"><param name="Name" value="StopCard"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a742b140cebdee3615ca6b4eca276a734"><param name="Name" value="StopCard_T"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#ad3819d0cd5d0c9454513d0e4ffa63311"><param name="Name" value="SwitchDC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a6a347d2e680aefbde759c73012355caf"><param name="Name" value="SwitchKPC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#acb4a27180fdc299e181b718795b3e775"><param name="Name" value="SwitchMain"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a9f1d966c672c4730d004aa35a0999cd7"><param name="Name" value="SwitchOutputs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a5d6be83802b8fc142ecb64a79ac51753"><param name="Name" value="idBuilder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#ae38fb7a9241fb63d7ba3e23f9a51496e"><param name="Name" value="idParser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html#af4fdbc9d0ed94419559cf4945c552344"><param name="Name" value="CAN_Code"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html#a640b1ff63aca383290c3aeca92b5456c"><param name="Name" value="CANid"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html"><param name="Name" value="CardHandler"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html"><param name="Name" value="CardHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html#af3b96c83fdd509c765f2f5a2fa4d4331"><param name="Name" value="DIGC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html"><param name="Name" value="CardHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html#a20544c94164198c2948ff67da0920466"><param name="Name" value="IISA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html"><param name="Name" value="CardHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html#abcbe3ce4c5b20fdeb66d6d749f87cdf9"><param name="Name" value="IISB"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html"><param name="Name" value="CardHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html#a41c76aeafa73295f8c6c03c5d812e7a3"><param name="Name" value="SACA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html"><param name="Name" value="CardHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html#af2f5504c3c02757d650c1626b0031379"><param name="Name" value="SACB"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html"><param name="Name" value="CardHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html#af6719db248093571b3573aa8b3250f14"><param name="Name" value="TAS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html#aafe9f17faccdb1f85c761fc729030ab5"><param name="Name" value="CardStatus"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8c.html#a49dd34562d8878a8869fb04aff32764a"><param name="Name" value="CardTester"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8c.html#a49dd34562d8878a8869fb04aff32764a"><param name="Name" value="0-CardHandler.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a49dd34562d8878a8869fb04aff32764a"><param name="Name" value="CardTester"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a49dd34562d8878a8869fb04aff32764a"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html#af3b96c83fdd509c765f2f5a2fa4d4331"><param name="Name" value="DIGC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html#ab2eb8c8e7405347e944504690095a61e"><param name="Name" value="DataRx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html#a6793e19fad355dbdca37c1e664923059"><param name="Name" value="FunctionRx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html"><param name="Name" value="GenCard"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html"><param name="Name" value="GenCard"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html#af4fdbc9d0ed94419559cf4945c552344"><param name="Name" value="CAN_Code"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html"><param name="Name" value="GenCard"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html#a7ab6c6e0514ad75088d7a8d8e4fa0513"><param name="Name" value="Last_Events"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html"><param name="Name" value="GenCard"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html#a7adb93caf6d48df626cc8b7ccf51688c"><param name="Name" value="Last_RxData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html"><param name="Name" value="GenCard"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html#aa08586e070575247b51b05111d9c738f"><param name="Name" value="Last_TxData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html"><param name="Name" value="GenCard"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html#a5bb1975158f47716dbd6c457be436a8f"><param name="Name" value="State"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html#a419e35a0554c07b84b4d8c3462c62328"><param name="Name" value="Handler"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html#a20544c94164198c2948ff67da0920466"><param name="Name" value="IISA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html#abcbe3ce4c5b20fdeb66d6d749f87cdf9"><param name="Name" value="IISB"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html#a8a6aeaca0613ef5eae9f88b189c42c80"><param name="Name" value="Id"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html#a7ab6c6e0514ad75088d7a8d8e4fa0513"><param name="Name" value="Last_Events"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html#a7adb93caf6d48df626cc8b7ccf51688c"><param name="Name" value="Last_RxData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html#aa08586e070575247b51b05111d9c738f"><param name="Name" value="Last_TxData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html"><param name="Name" value="Master"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html"><param name="Name" value="Master"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html#a640b1ff63aca383290c3aeca92b5456c"><param name="Name" value="CANid"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html"><param name="Name" value="Master"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html#aafe9f17faccdb1f85c761fc729030ab5"><param name="Name" value="CardStatus"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html"><param name="Name" value="Master"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html#ab2eb8c8e7405347e944504690095a61e"><param name="Name" value="DataRx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html"><param name="Name" value="Master"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html#a6793e19fad355dbdca37c1e664923059"><param name="Name" value="FunctionRx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html"><param name="Name" value="Master"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html#a419e35a0554c07b84b4d8c3462c62328"><param name="Name" value="Handler"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html"><param name="Name" value="Master"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html#a8a6aeaca0613ef5eae9f88b189c42c80"><param name="Name" value="Id"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html"><param name="Name" value="Master"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html#a0a59b54249801b22d26ea566de3d65ab"><param name="Name" value="SourceRx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="md_README.html"><param name="Name" value="MasterCode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a5b6cdc6363066cdaff84a22b902f893a"><param name="Name" value="ParseInputs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a4a65a58c5930ce74c16056d161c1b84a"><param name="Name" value="ParseSensors"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a97e5197bd3b9dda71508ae1701026f8b"><param name="Name" value="ParseTemperature"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#ad607a2556b080cc4afacf61febfe4bef"><param name="Name" value="RecallCard"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a5fc2c4092bef426d6750ce281cebcd42"><param name="Name" value="RecallCard_T"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html#a41c76aeafa73295f8c6c03c5d812e7a3"><param name="Name" value="SACA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html#af2f5504c3c02757d650c1626b0031379"><param name="Name" value="SACB"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structMaster.html#a0a59b54249801b22d26ea566de3d65ab"><param name="Name" value="SourceRx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#ac8002893e3291756e98843714ca5b887"><param name="Name" value="StartCard"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#ad6150a34c1f956f3d545e06f22e7ecdb"><param name="Name" value="StartCard_T"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structGenCard.html#a5bb1975158f47716dbd6c457be436a8f"><param name="Name" value="State"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a842e634e9f7e8edc35f9e9c068c80f1d"><param name="Name" value="StopCard"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a742b140cebdee3615ca6b4eca276a734"><param name="Name" value="StopCard_T"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#ad3819d0cd5d0c9454513d0e4ffa63311"><param name="Name" value="SwitchDC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a6a347d2e680aefbde759c73012355caf"><param name="Name" value="SwitchKPC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#acb4a27180fdc299e181b718795b3e775"><param name="Name" value="SwitchMain"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a9f1d966c672c4730d004aa35a0999cd7"><param name="Name" value="SwitchOutputs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structCardHandler.html#af6719db248093571b3573aa8b3250f14"><param name="Name" value="TAS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8c.html#a5d6be83802b8fc142ecb64a79ac51753"><param name="Name" value="idBuilder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8c.html#a5d6be83802b8fc142ecb64a79ac51753"><param name="Name" value="0-CardHandler.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a5d6be83802b8fc142ecb64a79ac51753"><param name="Name" value="idBuilder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#a5d6be83802b8fc142ecb64a79ac51753"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8c.html#ae38fb7a9241fb63d7ba3e23f9a51496e"><param name="Name" value="idParser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8c.html#ae38fb7a9241fb63d7ba3e23f9a51496e"><param name="Name" value="0-CardHandler.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#ae38fb7a9241fb63d7ba3e23f9a51496e"><param name="Name" value="idParser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="0-CardHandler_8h.html#ae38fb7a9241fb63d7ba3e23f9a51496e"><param name="Name" value="0-CardHandler.h"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>

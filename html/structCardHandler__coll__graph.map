@@ -1,0 +1,4 @@
+<map id="CardHandler" name="CardHandler">
+<area shape="rect" id="node1" title="Master card, system backend handler" alt="" coords="5,168,108,195"/>
+<area shape="rect" id="node2" href="$structGenCard.html" title="Generic Card value structure." alt="" coords="17,5,96,32"/>
+</map>
