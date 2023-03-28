@@ -76,15 +76,35 @@ typedef struct
 
 }CardHandler;
 
+/**
+ * @brief  
+ * @note   
+ * @retval None
+ */
+typedef struct 
+{
+    uint8_t Id;
+    uint32_t CANid;
+    uint8_t FunctionRx;
+    uint8_t SourceRx;
+    uint8_t DataRx[8];
+    uint8_t CardStatus[8];
+    CardHandler Handler;
+
+}Master;
+
+
 /*
  * Private Functions
  */
-void idBuilder();
-void idParser();
+uint32_t idBuilder(Master* Card,uint8_t Dest, uint8_t Function);
+uint8_t idParser(Master* Card, uint32_t Id);
 
 /*
  * Public Functions
  */
+void CardTester(Master* Card,uint8_t CardId);
+
 void StartCard();
 void StopCard();
 void RecallCard();
