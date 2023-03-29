@@ -1,0 +1,77 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Control Library
+
+[WINDOWS]
+main="Control Library","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+Acquisition__Functions_8c.html
+Acquisition__Functions_8h.html
+Acquisition__Functions_8h_source.html
+Control__Functions_8c.html
+Control__Functions_8h.html
+Control__Functions_8h_source.html
+FiniteStateControl__Functions_8c.html
+FiniteStateControl__Functions_8h.html
+FiniteStateControl__Functions_8h_source.html
+Modulation__Functions_8c.html
+Modulation__Functions_8h.html
+Modulation__Functions_8h_source.html
+annotated.html
+classes.html
+dir_000001_000000.html
+dir_68267d1309a1af8e8297ef4c3efbcdba.html
+dir_bfccd401955b95cf8c75461437045ac0.html
+files.html
+functions.html
+functions_vars.html
+globals.html
+globals_defs.html
+globals_func.html
+globals_vars.html
+graph_legend.html
+index.html
+structFFSOGI__PLL.html
+structFIR.html
+structFSMachines.html
+structIIR.html
+structINTG.html
+structPID__Controller.html
+structPI__Controller.html
+structPR__Controller.html
+structProp__Controller.html
+structSOGI.html
+structSVM__Modulation.html
+structSin__Modulation.html
+structTransforms.html
+Acquisition__Functions_8c__incl.png
+Acquisition__Functions_8h__dep__incl.png
+Acquisition__Functions_8h__incl.png
+Control__Functions_8c__incl.png
+Control__Functions_8h__dep__incl.png
+FiniteStateControl__Functions_8c__incl.png
+Modulation__Functions_8c__incl.png
+Modulation__Functions_8h__dep__incl.png
+Modulation__Functions_8h__incl.png
+bc_s.png
+bdwn.png
+closed.png
+dir_68267d1309a1af8e8297ef4c3efbcdba_dep.png
+graph_legend.png
+nav_f.png
+nav_h.png
+open.png
+structFFSOGI__PLL__coll__graph.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png

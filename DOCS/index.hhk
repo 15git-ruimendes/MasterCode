@@ -1,0 +1,1584 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ab8cb18c67a54fa5126ca6227686195fa"><param name="Name" value="A"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structTransforms.html#adc350e8596273c09bd224ecb25d05836"><param name="Name" value="ABC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a910ab3c1bfdb13c25ced70e181ce5777"><param name="Name" value="ABC_AlBet"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a910ab3c1bfdb13c25ced70e181ce5777"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a910ab3c1bfdb13c25ced70e181ce5777"><param name="Name" value="ABC_AlBet"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a910ab3c1bfdb13c25ced70e181ce5777"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aadd40b97846e39cd6121672f7d7cf9f5"><param name="Name" value="ABC_AlBet_PI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aadd40b97846e39cd6121672f7d7cf9f5"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aadd40b97846e39cd6121672f7d7cf9f5"><param name="Name" value="ABC_AlBet_PI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aadd40b97846e39cd6121672f7d7cf9f5"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structTransforms.html#abb6d4d72610d15b36f7bf25d575ec1bf"><param name="Name" value="ABG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a627e49680221eae59dce2b96ddb5bdb2"><param name="Name" value="ADC_MS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#ae2e72fb9bbd43d0e439273c67e3aba67"><param name="Name" value="ANY_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a910ab3c1bfdb13c25ced70e181ce5777"><param name="Name" value="ABC_AlBet"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aadd40b97846e39cd6121672f7d7cf9f5"><param name="Name" value="ABC_AlBet_PI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#ac78cde9465bea9b3294eae4d21797f7b"><param name="Name" value="AlBet_ABC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a34f5b0b70918829017ee991a5c452c02"><param name="Name" value="AlBet_ABC_PI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#ab1892a146c36419d553443fd94f816c2"><param name="Name" value="AlBet_DQ0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a29a3d28ff5e49555056114a7a786ca9d"><param name="Name" value="DQ0_AlBet"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a132b080cf5ccb79f94b30ae61099e79c"><param name="Name" value="FreeTransforms"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a17828cbc01fb4fa1efdc0ff276171180"><param name="Name" value="InitTransforms"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a8a0c69ecf72532021844899477111ad6"><param name="Name" value="T_ABC_AlBet"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aeb517a10a84416afd61a1faa9d04fcc1"><param name="Name" value="T_ABC_AlBet_PI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aee73a3fe375dac23d0b71c7e308ff156"><param name="Name" value="T_AlBet_ABC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a90f4000bfc274cba5750ed6cec840a65"><param name="Name" value="T_AlBet_ABC_PI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a74dac1cbeabab940d7d389117a02ecf3"><param name="Name" value="T_AlBet_DQ0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#af5ffeb708826eef1176f12b79b8e627e"><param name="Name" value="T_DQ0_AlBet"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a200d786aab62f6584e482e3ac879c792"><param name="Name" value="calcFFSOGI_PLL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a4d40179554ba05de10d7cdc75c90e77a"><param name="Name" value="calcINTG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aea4cec3e3d4cd26a1f642c55cd8a6796"><param name="Name" value="calcSOGI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#ae363e7c8d31569bc42a65871a1595777"><param name="Name" value="initFFSOGI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a29b09249eff700f40d762fa392eb4872"><param name="Name" value="initFIR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a4fe651b2113e79e835be34763de990ba"><param name="Name" value="initIIR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a9e5ba35f6f3bd74c79c52bdb5dd843ad"><param name="Name" value="initINTG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aec731479d646228689a3ac90c0bc25e3"><param name="Name" value="initSOGI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a910ab3c1bfdb13c25ced70e181ce5777"><param name="Name" value="ABC_AlBet"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aadd40b97846e39cd6121672f7d7cf9f5"><param name="Name" value="ABC_AlBet_PI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#ac78cde9465bea9b3294eae4d21797f7b"><param name="Name" value="AlBet_ABC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a34f5b0b70918829017ee991a5c452c02"><param name="Name" value="AlBet_ABC_PI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#ab1892a146c36419d553443fd94f816c2"><param name="Name" value="AlBet_DQ0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a29a3d28ff5e49555056114a7a786ca9d"><param name="Name" value="DQ0_AlBet"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a132b080cf5ccb79f94b30ae61099e79c"><param name="Name" value="FreeTransforms"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a17828cbc01fb4fa1efdc0ff276171180"><param name="Name" value="InitTransforms"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a8a0c69ecf72532021844899477111ad6"><param name="Name" value="T_ABC_AlBet"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aeb517a10a84416afd61a1faa9d04fcc1"><param name="Name" value="T_ABC_AlBet_PI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aee73a3fe375dac23d0b71c7e308ff156"><param name="Name" value="T_AlBet_ABC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a90f4000bfc274cba5750ed6cec840a65"><param name="Name" value="T_AlBet_ABC_PI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a74dac1cbeabab940d7d389117a02ecf3"><param name="Name" value="T_AlBet_DQ0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#af5ffeb708826eef1176f12b79b8e627e"><param name="Name" value="T_DQ0_AlBet"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#ad8364c4188aec4c84afabab3a66f5cb1"><param name="Name" value="_2_PI_"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a37cc0903dca6a65050b69140287090ea"><param name="Name" value="_PI_"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a200d786aab62f6584e482e3ac879c792"><param name="Name" value="calcFFSOGI_PLL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a4d40179554ba05de10d7cdc75c90e77a"><param name="Name" value="calcINTG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aea4cec3e3d4cd26a1f642c55cd8a6796"><param name="Name" value="calcSOGI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#ae363e7c8d31569bc42a65871a1595777"><param name="Name" value="initFFSOGI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a29b09249eff700f40d762fa392eb4872"><param name="Name" value="initFIR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a4fe651b2113e79e835be34763de990ba"><param name="Name" value="initIIR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a9e5ba35f6f3bd74c79c52bdb5dd843ad"><param name="Name" value="initINTG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aec731479d646228689a3ac90c0bc25e3"><param name="Name" value="initSOGI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a9ffdb23e324e244345a765a4e3dacd43"><param name="Name" value="resetINTG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a7b8eeddb841794425dbb5b7e5a43ebb6"><param name="Name" value="AlBetDQ"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#ac78cde9465bea9b3294eae4d21797f7b"><param name="Name" value="AlBet_ABC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#ac78cde9465bea9b3294eae4d21797f7b"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#ac78cde9465bea9b3294eae4d21797f7b"><param name="Name" value="AlBet_ABC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#ac78cde9465bea9b3294eae4d21797f7b"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a34f5b0b70918829017ee991a5c452c02"><param name="Name" value="AlBet_ABC_PI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a34f5b0b70918829017ee991a5c452c02"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a34f5b0b70918829017ee991a5c452c02"><param name="Name" value="AlBet_ABC_PI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a34f5b0b70918829017ee991a5c452c02"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#ab1892a146c36419d553443fd94f816c2"><param name="Name" value="AlBet_DQ0"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#ab1892a146c36419d553443fd94f816c2"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#ab1892a146c36419d553443fd94f816c2"><param name="Name" value="AlBet_DQ0"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#ab1892a146c36419d553443fd94f816c2"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#a9b7ee87d8dff0b212d31aa7fb137b95f"><param name="Name" value="Alpha"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#a9b7ee87d8dff0b212d31aa7fb137b95f"><param name="Name" value="SOGI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#ab42166d3389e2c263ea60d31c923bf00"><param name="Name" value="Alpha"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#ab42166d3389e2c263ea60d31c923bf00"><param name="Name" value="SVM_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a97382f998fb806dc08807a1f5168e3a0"><param name="Name" value="Alpha_Adjust"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#a7083617b017de0d8bb7c2ff4dd11b329"><param name="Name" value="Alpha_N1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a3a770e6ee2a32e0e8319840671420b05"><param name="Name" value="Amplitude"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a3a770e6ee2a32e0e8319840671420b05"><param name="Name" value="SVM_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a9f254a0792bb6216af45472d747345b9"><param name="Name" value="Amplitude"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a9f254a0792bb6216af45472d747345b9"><param name="Name" value="Sin_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a7b95c55e78ddd94137d7b1b18e88dfbd"><param name="Name" value="Angle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a0465a9ad2558b323ad6da17624563dcd"><param name="Name" value="B"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#a9281bb5d4328d10c4afa981ae8e860eb"><param name="Name" value="Beta"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#a9281bb5d4328d10c4afa981ae8e860eb"><param name="Name" value="SOGI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a602f293330b387d1399a9bd199ce1e05"><param name="Name" value="Beta"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a602f293330b387d1399a9bd199ce1e05"><param name="Name" value="SVM_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a541e86753eeb309a6d6681022af7f5ab"><param name="Name" value="Beta_Adjust"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#af1b68fa611149670f8fc002ae93496f9"><param name="Name" value="Beta_N1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a0b369aa877cbf98070694054f2db4120"><param name="Name" value="C"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a553a124e1d5855773c74cb5561dec040"><param name="Name" value="CONTROL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8c.html#add16c87d3e82b66800aae58a2d281c31"><param name="Name" value="CalculateTransitions"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8c.html#add16c87d3e82b66800aae58a2d281c31"><param name="Name" value="FiniteStateControl_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#add16c87d3e82b66800aae58a2d281c31"><param name="Name" value="CalculateTransitions"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#add16c87d3e82b66800aae58a2d281c31"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html"><param name="Name" value="Control_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a36a3b9ab2563a4cebe91d3698cc44be4"><param name="Name" value="PID_Calculate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html"><param name="Name" value="Control_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a582cadd2383a75523ff9365a04cd0d7f"><param name="Name" value="PID_Reset"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html"><param name="Name" value="Control_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a40b7275f82413ef900735222a74f815f"><param name="Name" value="PID_init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html"><param name="Name" value="Control_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#aa1e8ca92e7719662735ed6184f95b5df"><param name="Name" value="PI_Calculate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html"><param name="Name" value="Control_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a683a59714ed2d0a5a1ceb1f7e04c33be"><param name="Name" value="PI_Reset"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html"><param name="Name" value="Control_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a6f999d7d06896d5425cb6454fe14e802"><param name="Name" value="PI_init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html"><param name="Name" value="Control_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#ae34894e96bfd5d4589dd9d84157c7f79"><param name="Name" value="PR_Calculate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html"><param name="Name" value="Control_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a390cff5b38494ef1cf51bfc84de1f2f5"><param name="Name" value="PR_Reset"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html"><param name="Name" value="Control_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a6e7c237fe3ae5807e798bf42edd6c4c4"><param name="Name" value="PR_init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html"><param name="Name" value="Control_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a654bbd007fb3cdd84b2b2da5de7e30a1"><param name="Name" value="P_Calculate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html"><param name="Name" value="Control_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a6d611a57794db4276902611e6e35bf6a"><param name="Name" value="P_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html"><param name="Name" value="Control_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#ad3d40f1e9ab8ad51ab1d6818f3991fa0"><param name="Name" value="P_init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html"><param name="Name" value="Control_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a5c80104691ad6e8fe00ccb77fd260698"><param name="Name" value="Pi_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html"><param name="Name" value="Control_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a9f5d1986ef28151e3e7ec46f5fb409d8"><param name="Name" value="Pid_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html"><param name="Name" value="Control_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a36a3b9ab2563a4cebe91d3698cc44be4"><param name="Name" value="PID_Calculate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html"><param name="Name" value="Control_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a582cadd2383a75523ff9365a04cd0d7f"><param name="Name" value="PID_Reset"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html"><param name="Name" value="Control_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a40b7275f82413ef900735222a74f815f"><param name="Name" value="PID_init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html"><param name="Name" value="Control_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#aa1e8ca92e7719662735ed6184f95b5df"><param name="Name" value="PI_Calculate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html"><param name="Name" value="Control_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a683a59714ed2d0a5a1ceb1f7e04c33be"><param name="Name" value="PI_Reset"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html"><param name="Name" value="Control_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a6f999d7d06896d5425cb6454fe14e802"><param name="Name" value="PI_init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html"><param name="Name" value="Control_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#ae34894e96bfd5d4589dd9d84157c7f79"><param name="Name" value="PR_Calculate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html"><param name="Name" value="Control_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a390cff5b38494ef1cf51bfc84de1f2f5"><param name="Name" value="PR_Reset"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html"><param name="Name" value="Control_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a6e7c237fe3ae5807e798bf42edd6c4c4"><param name="Name" value="PR_init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html"><param name="Name" value="Control_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a654bbd007fb3cdd84b2b2da5de7e30a1"><param name="Name" value="P_Calculate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html"><param name="Name" value="Control_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a6d611a57794db4276902611e6e35bf6a"><param name="Name" value="P_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html"><param name="Name" value="Control_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#ad3d40f1e9ab8ad51ab1d6818f3991fa0"><param name="Name" value="P_init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html"><param name="Name" value="Control_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a5c80104691ad6e8fe00ccb77fd260698"><param name="Name" value="Pi_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html"><param name="Name" value="Control_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a9f5d1986ef28151e3e7ec46f5fb409d8"><param name="Name" value="Pid_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#ae59f12c9ecafbc20757178fa3d68fe16"><param name="Name" value="Controller"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a8b4d0de3988492b747545c7d55bfd18a"><param name="Name" value="D1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#acd64921524f8cc6393467d7dce93e02e"><param name="Name" value="D"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a0225cead0f299e4128c69f2abd796338"><param name="Name" value="DC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a0225cead0f299e4128c69f2abd796338"><param name="Name" value="SVM_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a0d4bd700508c0141cef2bf49281d1dd7"><param name="Name" value="DC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a0d4bd700508c0141cef2bf49281d1dd7"><param name="Name" value="Sin_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structTransforms.html#a76bcb83c1b34111fed2368718df00f0c"><param name="Name" value="DQ0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a29a3d28ff5e49555056114a7a786ca9d"><param name="Name" value="DQ0_AlBet"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a29a3d28ff5e49555056114a7a786ca9d"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a29a3d28ff5e49555056114a7a786ca9d"><param name="Name" value="DQ0_AlBet"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a29a3d28ff5e49555056114a7a786ca9d"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#ab02183eff6fabb5c314ac60ea5481886"><param name="Name" value="DisCharge"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a7c622b4aeae824602d602954f617e51e"><param name="Name" value="DutyCycles"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a7c622b4aeae824602d602954f617e51e"><param name="Name" value="SVM_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#abd66a8168d5949d50f6a1c0f4960fd05"><param name="Name" value="DutyCycles"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#abd66a8168d5949d50f6a1c0f4960fd05"><param name="Name" value="Sin_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ab2595001b055c41d3df70ddfbee7a310"><param name="Name" value="E"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a1e4fb8bde21c52f54a1ca4fbf7efb2cf"><param name="Name" value="Enable"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#aec73de8aa8eec6420ca9624444d143b3"><param name="Name" value="Error_N1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a29586255a0df5fc64080cc21bb2af8aa"><param name="Name" value="Error_N2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a4ff3a7cd2e58e87e9ffca2ab29b7f625"><param name="Name" value="F"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a7b8eeddb841794425dbb5b7e5a43ebb6"><param name="Name" value="AlBetDQ"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a97382f998fb806dc08807a1f5168e3a0"><param name="Name" value="Alpha_Adjust"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a541e86753eeb309a6d6681022af7f5ab"><param name="Name" value="Beta_Adjust"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#ae59f12c9ecafbc20757178fa3d68fe16"><param name="Name" value="Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a79f580a8f5796a050ba49925a0418790"><param name="Name" value="Integrator"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a2dcaace792634e36284a3bb541ee89e8"><param name="Name" value="Ke"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#acb5086bbf6bbad174e7d4ae15e851d6b"><param name="Name" value="Ki"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a4a9c625a4bf8c277ca9ffa2bf0d6fb4d"><param name="Name" value="Kp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#ad4de107f3c3fa9cc14ba08a8a131f7f3"><param name="Name" value="SG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#acb23c7fd95a42fe2062ee90a8aa7c2a7"><param name="Name" value="T"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#aa383c023ada3db088a4f09bc78fca4ea"><param name="Name" value="const_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#ab8954551e71a98bdb468d592559421bf"><param name="Name" value="o1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a2dd318a311bffee49cacc8d14f32cc3b"><param name="Name" value="oPLL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a231ff42c912ac7c61de6f7c9e190a13f"><param name="Name" value="wFF"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a1ffa337a8930f72e2afd3e9491a2329c"><param name="Name" value="wFF_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#af647726e8ce021fd6d84a2a8d0b71105"><param name="Name" value="wPLL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFIR.html"><param name="Name" value="FIR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFIR.html"><param name="Name" value="FIR"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFIR.html#a6372d2ac9d3daf723d490f14d11abeec"><param name="Name" value="FactorVector"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFIR.html"><param name="Name" value="FIR"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFIR.html#aefae29e380eba86f43670f7721ec2875"><param name="Name" value="OutputValue"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFIR.html"><param name="Name" value="FIR"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFIR.html#a514a2a74407e181728d4641c8a8a490b"><param name="Name" value="PreviousVals"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a1918fad07a21b364c1eda71abd58b723"><param name="Name" value="FSM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFSMachines.html"><param name="Name" value="FSMachines"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFSMachines.html"><param name="Name" value="FSMachines"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFSMachines.html#a15415b2c260eec03f1398388f7d3124f"><param name="Name" value="PrevState"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFSMachines.html"><param name="Name" value="FSMachines"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFSMachines.html#aee767296b5337e961aa669ee90d6b331"><param name="Name" value="State"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFSMachines.html"><param name="Name" value="FSMachines"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFSMachines.html#adae16b68133eceaa9db0016ca91051cb"><param name="Name" value="_TimeOn"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFIR.html#a6372d2ac9d3daf723d490f14d11abeec"><param name="Name" value="FactorVector"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html#a958e8aeda6091ed7447bef6b9549ca95"><param name="Name" value="FactorVectorA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html#a023cde31d59e8f005c47bf7b94e3c3b5"><param name="Name" value="FactorVectorB"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8c.html#add16c87d3e82b66800aae58a2d281c31"><param name="Name" value="FiniteStateControl_Functions.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a627e49680221eae59dce2b96ddb5bdb2"><param name="Name" value="ADC_MS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#ae2e72fb9bbd43d0e439273c67e3aba67"><param name="Name" value="ANY_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a553a124e1d5855773c74cb5561dec040"><param name="Name" value="CONTROL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#add16c87d3e82b66800aae58a2d281c31"><param name="Name" value="CalculateTransitions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#ab02183eff6fabb5c314ac60ea5481886"><param name="Name" value="DisCharge"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a1e4fb8bde21c52f54a1ca4fbf7efb2cf"><param name="Name" value="Enable"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a1918fad07a21b364c1eda71abd58b723"><param name="Name" value="FSM"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a1bb283bd7893b9855e2f23013891fc82"><param name="Name" value="INPUT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a5f951b3088bb925ca46111d3a89c1c05"><param name="Name" value="IN_VOLT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a4a038ffc751e69f4e21c6ff62f64f35d"><param name="Name" value="IN_VOLT_MAX"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a36e3981246890aa2cbc29b1f6b5b932a"><param name="Name" value="IN_VOLT_MIN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a83b53f810b5ef4da3d2600733f146a9d"><param name="Name" value="KShunt1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#abe4991a8f258b29610b52de9fa006bea"><param name="Name" value="KShunt2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#aeee335131bbf7b8ed54708870bea996f"><param name="Name" value="Kmain"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#afcab405836d87f7e69e4d66e04fc6377"><param name="Name" value="Kpc"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a3fa2d3bf1901157f734a584d47b25d8b"><param name="Name" value="MASTER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a743dadde3c3ae6a5e47ca04facd45ad8"><param name="Name" value="NUM_FSM"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a61a3c9a18380aafb6e430e79bf596557"><param name="Name" value="OUTPUT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#ac0629f226c268a76cd7362ce85cf413a"><param name="Name" value="OUT_MAX"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#aa642b055f0ec51fb277505a0f28ebc92"><param name="Name" value="OUT_MIN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a698d53e067a86ee602d3eba67222ed0e"><param name="Name" value="OUT_VOLT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a3681723edc00b6abed4157e25191829e"><param name="Name" value="PRE_CHRG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a300b3153e645645c71232b8b26ef0aef"><param name="Name" value="PRE_CHRG_MAX"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#aa4856a759deb7a61437e0b3423a12489"><param name="Name" value="PRE_CHRG_MIN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a0b2c355629c0c41a383ab8db641304ee"><param name="Name" value="Start"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a3f2d091f425b3fe44722728760a6e4b6"><param name="Name" value="T_PRE_CHR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html"><param name="Name" value="FiniteStateControl_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a437ed09daf7b9ef03f2305a0f88d84eb"><param name="Name" value="T_RESET_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#a37805c5d34cf5fd670a3a8bfe5f148ae"><param name="Name" value="FreeSVM_Modulation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8c.html#a06b1b00ac0e1a3f67b836328c0904499"><param name="Name" value="FreeSinModulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8c.html#a06b1b00ac0e1a3f67b836328c0904499"><param name="Name" value="Modulation_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#a06b1b00ac0e1a3f67b836328c0904499"><param name="Name" value="FreeSinModulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#a06b1b00ac0e1a3f67b836328c0904499"><param name="Name" value="Modulation_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a132b080cf5ccb79f94b30ae61099e79c"><param name="Name" value="FreeTransforms"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a132b080cf5ccb79f94b30ae61099e79c"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a132b080cf5ccb79f94b30ae61099e79c"><param name="Name" value="FreeTransforms"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a132b080cf5ccb79f94b30ae61099e79c"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#af1284e5482ad4b940239512e6a78b7ef"><param name="Name" value="Frequency"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#af1284e5482ad4b940239512e6a78b7ef"><param name="Name" value="SVM_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#aac8c0b29e2583b2080c442d7275de2ed"><param name="Name" value="Frequency"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#aac8c0b29e2583b2080c442d7275de2ed"><param name="Name" value="Sin_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a8081a4236e88048241976dd839016791"><param name="Name" value="G"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html"><param name="Name" value="IIR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html"><param name="Name" value="IIR"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html#a958e8aeda6091ed7447bef6b9549ca95"><param name="Name" value="FactorVectorA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html"><param name="Name" value="IIR"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html#a023cde31d59e8f005c47bf7b94e3c3b5"><param name="Name" value="FactorVectorB"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html"><param name="Name" value="IIR"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html#a091a5feaa228261f5bbc01832224916e"><param name="Name" value="OutputValue"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html"><param name="Name" value="IIR"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html#a29d9baece490cd74c0baefd8911bf195"><param name="Name" value="PreviousVals"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a1bb283bd7893b9855e2f23013891fc82"><param name="Name" value="INPUT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html"><param name="Name" value="INTG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html"><param name="Name" value="INTG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#abdb93d2006bdb00bed9c31bb549f906e"><param name="Name" value="MaxValue"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html"><param name="Name" value="INTG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#aab94ac146a81c45df5e54fc585b8abf7"><param name="Name" value="MinValue"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html"><param name="Name" value="INTG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#ab5d6036bed0851ccd5004ab211672796"><param name="Name" value="Out"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html"><param name="Name" value="INTG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#a0d75b95474f2b9a60470d88ed0a9fd77"><param name="Name" value="Out_N1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html"><param name="Name" value="INTG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#af9cb6ea5f2bd15e148d31f0f8d9e708c"><param name="Name" value="ResetValue_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html"><param name="Name" value="INTG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#aacf425202913e1866b9fb3fc20ad0874"><param name="Name" value="ResetValue_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html"><param name="Name" value="INTG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#adf4e1044fc99148d6fa9ebfb1fe507ab"><param name="Name" value="Resettable"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html"><param name="Name" value="INTG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#a978ea75a196a43a8509246c855ad81e9"><param name="Name" value="SatFlag"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html"><param name="Name" value="INTG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#a909a5f4e593d4627a9d37be99701e0b1"><param name="Name" value="T"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a5f951b3088bb925ca46111d3a89c1c05"><param name="Name" value="IN_VOLT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a4a038ffc751e69f4e21c6ff62f64f35d"><param name="Name" value="IN_VOLT_MAX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a36e3981246890aa2cbc29b1f6b5b932a"><param name="Name" value="IN_VOLT_MIN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a71d8dacc4fa9b5144108132c8aa45084"><param name="Name" value="IncFrequency"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#af72e4651077d34a42ef34385d55688ee"><param name="Name" value="IncFrequnecy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#a8b24c6c8302ea7245db99331aac47ea5"><param name="Name" value="InitSVM_Modulation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8c.html#a1b80937126befd7e9f550970d90f5fc0"><param name="Name" value="InitSinModulatio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8c.html#a1b80937126befd7e9f550970d90f5fc0"><param name="Name" value="Modulation_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#a1b80937126befd7e9f550970d90f5fc0"><param name="Name" value="InitSinModulatio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#a1b80937126befd7e9f550970d90f5fc0"><param name="Name" value="Modulation_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a17828cbc01fb4fa1efdc0ff276171180"><param name="Name" value="InitTransforms"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a17828cbc01fb4fa1efdc0ff276171180"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a17828cbc01fb4fa1efdc0ff276171180"><param name="Name" value="InitTransforms"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a17828cbc01fb4fa1efdc0ff276171180"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ac104f90fe3123cccbc3e5d0d6ec7ec8b"><param name="Name" value="IntegralSat"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ac104f90fe3123cccbc3e5d0d6ec7ec8b"><param name="Name" value="PID_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a0725969d4d68e0f1c28d1a8e165c9ce5"><param name="Name" value="IntegralSat"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a0725969d4d68e0f1c28d1a8e165c9ce5"><param name="Name" value="PI_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a79f580a8f5796a050ba49925a0418790"><param name="Name" value="Integrator"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a83b53f810b5ef4da3d2600733f146a9d"><param name="Name" value="KShunt1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#abe4991a8f258b29610b52de9fa006bea"><param name="Name" value="KShunt2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a3fddc85f0b0d89c8683f42a803b6ecce"><param name="Name" value="Kd"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a2dcaace792634e36284a3bb541ee89e8"><param name="Name" value="Ke"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a2dcaace792634e36284a3bb541ee89e8"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#ae7f76607f2ff33062bd4f780b81df81f"><param name="Name" value="Ke"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#ae7f76607f2ff33062bd4f780b81df81f"><param name="Name" value="SOGI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#acb5086bbf6bbad174e7d4ae15e851d6b"><param name="Name" value="Ki"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#acb5086bbf6bbad174e7d4ae15e851d6b"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a29c42c6851e3374c104f4230beeb7646"><param name="Name" value="Ki"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a29c42c6851e3374c104f4230beeb7646"><param name="Name" value="PID_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a310bb75b3a3e9055bf64f7716eadc587"><param name="Name" value="Ki"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a310bb75b3a3e9055bf64f7716eadc587"><param name="Name" value="PI_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#aeee335131bbf7b8ed54708870bea996f"><param name="Name" value="Kmain"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a4a9c625a4bf8c277ca9ffa2bf0d6fb4d"><param name="Name" value="Kp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a4a9c625a4bf8c277ca9ffa2bf0d6fb4d"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a2e00b56c51a5b6e5480f446174308874"><param name="Name" value="Kp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a2e00b56c51a5b6e5480f446174308874"><param name="Name" value="PID_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a01e60c8170ee37c84fc16152460cb201"><param name="Name" value="Kp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a01e60c8170ee37c84fc16152460cb201"><param name="Name" value="PI_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#af8e0ca063a228218e8966eab95c84ad9"><param name="Name" value="Kp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#af8e0ca063a228218e8966eab95c84ad9"><param name="Name" value="PR_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#a0e7252e60642da7ad328360b42f6754d"><param name="Name" value="Kp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#a0e7252e60642da7ad328360b42f6754d"><param name="Name" value="Prop_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#afcab405836d87f7e69e4d66e04fc6377"><param name="Name" value="Kpc"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#af58844d8a5ef4aa4fab2e4abb4db46cc"><param name="Name" value="Kr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a3fa2d3bf1901157f734a584d47b25d8b"><param name="Name" value="MASTER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a7d524c7709fdd0f9bf3d4e6833142fbf"><param name="Name" value="MaxDC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a7d524c7709fdd0f9bf3d4e6833142fbf"><param name="Name" value="SVM_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a16f928d11adfd58e94602866e6b66d83"><param name="Name" value="MaxDC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a16f928d11adfd58e94602866e6b66d83"><param name="Name" value="Sin_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ab55357aa9feb744b8e79fec2e648be2b"><param name="Name" value="MaxLim"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ab55357aa9feb744b8e79fec2e648be2b"><param name="Name" value="PID_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a8433f9d48ba549248924412e7b4c7be5"><param name="Name" value="MaxLim"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a8433f9d48ba549248924412e7b4c7be5"><param name="Name" value="PI_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a7e3d6c8843183d211d8e2ecac342dd1d"><param name="Name" value="MaxLim"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a7e3d6c8843183d211d8e2ecac342dd1d"><param name="Name" value="PR_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#adefef73df9e6482a67c82579bef0444f"><param name="Name" value="MaxLim"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#adefef73df9e6482a67c82579bef0444f"><param name="Name" value="Prop_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ac54d2b8924c7a5fd4de8cb742e6f602e"><param name="Name" value="MaxLimit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#abdb93d2006bdb00bed9c31bb549f906e"><param name="Name" value="MaxValue"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a8b808e1c2387bde92eb077c7f8f7e99b"><param name="Name" value="MinDC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a8b808e1c2387bde92eb077c7f8f7e99b"><param name="Name" value="SVM_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a2a216913f5e2ed416375cbcb045c5e31"><param name="Name" value="MinDC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a2a216913f5e2ed416375cbcb045c5e31"><param name="Name" value="Sin_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ab72c99de460930b0a5d820173b3403be"><param name="Name" value="MinLim"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ab72c99de460930b0a5d820173b3403be"><param name="Name" value="PID_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a27c5b33ae96e3c6144c630d1a7d90944"><param name="Name" value="MinLim"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a27c5b33ae96e3c6144c630d1a7d90944"><param name="Name" value="PI_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ada199a160e6a30c73835223b53133f7c"><param name="Name" value="MinLim"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ada199a160e6a30c73835223b53133f7c"><param name="Name" value="PR_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#af4344503cbd14b6f663bd817f5cf3008"><param name="Name" value="MinLim"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#af4344503cbd14b6f663bd817f5cf3008"><param name="Name" value="Prop_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#aab94ac146a81c45df5e54fc585b8abf7"><param name="Name" value="MinValue"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8c.html"><param name="Name" value="Modulation_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8c.html#a06b1b00ac0e1a3f67b836328c0904499"><param name="Name" value="FreeSinModulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8c.html"><param name="Name" value="Modulation_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8c.html#a1b80937126befd7e9f550970d90f5fc0"><param name="Name" value="InitSinModulatio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8c.html"><param name="Name" value="Modulation_Functions.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8c.html#addc19160acf2cd652b6359f087ec90dd"><param name="Name" value="Sinusoidal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html"><param name="Name" value="Modulation_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#a37805c5d34cf5fd670a3a8bfe5f148ae"><param name="Name" value="FreeSVM_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html"><param name="Name" value="Modulation_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#a06b1b00ac0e1a3f67b836328c0904499"><param name="Name" value="FreeSinModulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html"><param name="Name" value="Modulation_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#a8b24c6c8302ea7245db99331aac47ea5"><param name="Name" value="InitSVM_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html"><param name="Name" value="Modulation_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#a1b80937126befd7e9f550970d90f5fc0"><param name="Name" value="InitSinModulatio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html"><param name="Name" value="Modulation_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#ab79fce5a7b9b8f4d78a7a78efe384059"><param name="Name" value="SVM_AlBet"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html"><param name="Name" value="Modulation_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#a9545ffb01b63ffcc0c138092f1f61509"><param name="Name" value="SVM_ModAngle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html"><param name="Name" value="Modulation_Functions.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#addc19160acf2cd652b6359f087ec90dd"><param name="Name" value="Sinusoidal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a743dadde3c3ae6a5e47ca04facd45ad8"><param name="Name" value="NUM_FSM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a61a3c9a18380aafb6e430e79bf596557"><param name="Name" value="OUTPUT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#ac0629f226c268a76cd7362ce85cf413a"><param name="Name" value="OUT_MAX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#aa642b055f0ec51fb277505a0f28ebc92"><param name="Name" value="OUT_MIN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a698d53e067a86ee602d3eba67222ed0e"><param name="Name" value="OUT_VOLT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#ac7da94808e3fabd59fba87d3ba78921d"><param name="Name" value="OffSet"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#ab5d6036bed0851ccd5004ab211672796"><param name="Name" value="Out"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#a0d75b95474f2b9a60470d88ed0a9fd77"><param name="Name" value="Out_N1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#a0d75b95474f2b9a60470d88ed0a9fd77"><param name="Name" value="INTG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a456a7d8a4ab89700a5ba25a469875481"><param name="Name" value="Out_N1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a456a7d8a4ab89700a5ba25a469875481"><param name="Name" value="PR_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#accf22492ad9db62027a686a8f635625d"><param name="Name" value="Out_N2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFIR.html#aefae29e380eba86f43670f7721ec2875"><param name="Name" value="OutputValue"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFIR.html#aefae29e380eba86f43670f7721ec2875"><param name="Name" value="FIR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html#a091a5feaa228261f5bbc01832224916e"><param name="Name" value="OutputValue"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html#a091a5feaa228261f5bbc01832224916e"><param name="Name" value="IIR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a36a3b9ab2563a4cebe91d3698cc44be4"><param name="Name" value="PID_Calculate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a36a3b9ab2563a4cebe91d3698cc44be4"><param name="Name" value="Control_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a36a3b9ab2563a4cebe91d3698cc44be4"><param name="Name" value="PID_Calculate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a36a3b9ab2563a4cebe91d3698cc44be4"><param name="Name" value="Control_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html"><param name="Name" value="PID_Controller"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html"><param name="Name" value="PID_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ac104f90fe3123cccbc3e5d0d6ec7ec8b"><param name="Name" value="IntegralSat"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html"><param name="Name" value="PID_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a3fddc85f0b0d89c8683f42a803b6ecce"><param name="Name" value="Kd"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html"><param name="Name" value="PID_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a29c42c6851e3374c104f4230beeb7646"><param name="Name" value="Ki"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html"><param name="Name" value="PID_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a2e00b56c51a5b6e5480f446174308874"><param name="Name" value="Kp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html"><param name="Name" value="PID_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ab55357aa9feb744b8e79fec2e648be2b"><param name="Name" value="MaxLim"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html"><param name="Name" value="PID_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ab72c99de460930b0a5d820173b3403be"><param name="Name" value="MinLim"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html"><param name="Name" value="PID_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#aca2f749054fb3e30dca3f6a915e86c69"><param name="Name" value="PreviousError1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html"><param name="Name" value="PID_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a62c7172b25b6abe9c4506456d58e6958"><param name="Name" value="PreviousError2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html"><param name="Name" value="PID_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ae25fb261b6c00888eff2949f631827fd"><param name="Name" value="Reference"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html"><param name="Name" value="PID_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a63c71aa7b453c9b7a42ef3f349f39e8e"><param name="Name" value="Result"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html"><param name="Name" value="PID_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a37d41274662a6927d65cf637df9f1c09"><param name="Name" value="Td"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html"><param name="Name" value="PID_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ad6eb7c204740baa4ed2548e759f2f4af"><param name="Name" value="Ts"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a582cadd2383a75523ff9365a04cd0d7f"><param name="Name" value="PID_Reset"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a582cadd2383a75523ff9365a04cd0d7f"><param name="Name" value="Control_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a582cadd2383a75523ff9365a04cd0d7f"><param name="Name" value="PID_Reset"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a582cadd2383a75523ff9365a04cd0d7f"><param name="Name" value="Control_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a40b7275f82413ef900735222a74f815f"><param name="Name" value="PID_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a40b7275f82413ef900735222a74f815f"><param name="Name" value="Control_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a40b7275f82413ef900735222a74f815f"><param name="Name" value="PID_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a40b7275f82413ef900735222a74f815f"><param name="Name" value="Control_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a6a597e92429520655a4cc541f007c082"><param name="Name" value="PI_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#aa1e8ca92e7719662735ed6184f95b5df"><param name="Name" value="PI_Calculate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#aa1e8ca92e7719662735ed6184f95b5df"><param name="Name" value="Control_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#aa1e8ca92e7719662735ed6184f95b5df"><param name="Name" value="PI_Calculate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#aa1e8ca92e7719662735ed6184f95b5df"><param name="Name" value="Control_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html"><param name="Name" value="PI_Controller"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html"><param name="Name" value="PI_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a0725969d4d68e0f1c28d1a8e165c9ce5"><param name="Name" value="IntegralSat"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html"><param name="Name" value="PI_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a310bb75b3a3e9055bf64f7716eadc587"><param name="Name" value="Ki"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html"><param name="Name" value="PI_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a01e60c8170ee37c84fc16152460cb201"><param name="Name" value="Kp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html"><param name="Name" value="PI_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a8433f9d48ba549248924412e7b4c7be5"><param name="Name" value="MaxLim"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html"><param name="Name" value="PI_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a27c5b33ae96e3c6144c630d1a7d90944"><param name="Name" value="MinLim"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html"><param name="Name" value="PI_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a69f5ae36f1c6c14053e80303767e8541"><param name="Name" value="PreviousError"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html"><param name="Name" value="PI_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a644c5fb0a956a79a14b01d6704305da1"><param name="Name" value="Reference"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html"><param name="Name" value="PI_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a55ba2e75bf938a7ff00f03dbaf28ff33"><param name="Name" value="Result"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html"><param name="Name" value="PI_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a92c2233153c4f3278b7351a8ca892fd3"><param name="Name" value="Ts"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a683a59714ed2d0a5a1ceb1f7e04c33be"><param name="Name" value="PI_Reset"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a683a59714ed2d0a5a1ceb1f7e04c33be"><param name="Name" value="Control_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a683a59714ed2d0a5a1ceb1f7e04c33be"><param name="Name" value="PI_Reset"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a683a59714ed2d0a5a1ceb1f7e04c33be"><param name="Name" value="Control_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a6f999d7d06896d5425cb6454fe14e802"><param name="Name" value="PI_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a6f999d7d06896d5425cb6454fe14e802"><param name="Name" value="Control_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a6f999d7d06896d5425cb6454fe14e802"><param name="Name" value="PI_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a6f999d7d06896d5425cb6454fe14e802"><param name="Name" value="Control_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a3681723edc00b6abed4157e25191829e"><param name="Name" value="PRE_CHRG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a300b3153e645645c71232b8b26ef0aef"><param name="Name" value="PRE_CHRG_MAX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#aa4856a759deb7a61437e0b3423a12489"><param name="Name" value="PRE_CHRG_MIN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#ae34894e96bfd5d4589dd9d84157c7f79"><param name="Name" value="PR_Calculate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#ae34894e96bfd5d4589dd9d84157c7f79"><param name="Name" value="Control_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#ae34894e96bfd5d4589dd9d84157c7f79"><param name="Name" value="PR_Calculate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#ae34894e96bfd5d4589dd9d84157c7f79"><param name="Name" value="Control_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ab8cb18c67a54fa5126ca6227686195fa"><param name="Name" value="A"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a0465a9ad2558b323ad6da17624563dcd"><param name="Name" value="B"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a0b369aa877cbf98070694054f2db4120"><param name="Name" value="C"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#acd64921524f8cc6393467d7dce93e02e"><param name="Name" value="D"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a8b4d0de3988492b747545c7d55bfd18a"><param name="Name" value="D1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ab2595001b055c41d3df70ddfbee7a310"><param name="Name" value="E"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#aec73de8aa8eec6420ca9624444d143b3"><param name="Name" value="Error_N1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a29586255a0df5fc64080cc21bb2af8aa"><param name="Name" value="Error_N2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a4ff3a7cd2e58e87e9ffca2ab29b7f625"><param name="Name" value="F"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a8081a4236e88048241976dd839016791"><param name="Name" value="G"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#af8e0ca063a228218e8966eab95c84ad9"><param name="Name" value="Kp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#af58844d8a5ef4aa4fab2e4abb4db46cc"><param name="Name" value="Kr"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a7e3d6c8843183d211d8e2ecac342dd1d"><param name="Name" value="MaxLim"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ac54d2b8924c7a5fd4de8cb742e6f602e"><param name="Name" value="MaxLimit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ada199a160e6a30c73835223b53133f7c"><param name="Name" value="MinLim"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a456a7d8a4ab89700a5ba25a469875481"><param name="Name" value="Out_N1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#accf22492ad9db62027a686a8f635625d"><param name="Name" value="Out_N2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ace0785fe86afc6cc99e47f4117fbfb96"><param name="Name" value="Reference"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ac39de7fce5cfe8e02cc2ec8f29f3816d"><param name="Name" value="Result"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a8455d0700f9d1d6b3d36c0e3223e36ec"><param name="Name" value="Saturation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#aa6ac7547244fbad7574a409d3cfd2e15"><param name="Name" value="Ts"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a6150b09ce3c809a31c5b9d3112db3b46"><param name="Name" value="w0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html"><param name="Name" value="PR_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#aae37303a8eefda6567d24df069edb841"><param name="Name" value="wC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a390cff5b38494ef1cf51bfc84de1f2f5"><param name="Name" value="PR_Reset"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a390cff5b38494ef1cf51bfc84de1f2f5"><param name="Name" value="Control_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a390cff5b38494ef1cf51bfc84de1f2f5"><param name="Name" value="PR_Reset"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a390cff5b38494ef1cf51bfc84de1f2f5"><param name="Name" value="Control_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a6e7c237fe3ae5807e798bf42edd6c4c4"><param name="Name" value="PR_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a6e7c237fe3ae5807e798bf42edd6c4c4"><param name="Name" value="Control_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a6e7c237fe3ae5807e798bf42edd6c4c4"><param name="Name" value="PR_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a6e7c237fe3ae5807e798bf42edd6c4c4"><param name="Name" value="Control_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a654bbd007fb3cdd84b2b2da5de7e30a1"><param name="Name" value="P_Calculate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a654bbd007fb3cdd84b2b2da5de7e30a1"><param name="Name" value="Control_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a654bbd007fb3cdd84b2b2da5de7e30a1"><param name="Name" value="P_Calculate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a654bbd007fb3cdd84b2b2da5de7e30a1"><param name="Name" value="Control_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a6d611a57794db4276902611e6e35bf6a"><param name="Name" value="P_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a6d611a57794db4276902611e6e35bf6a"><param name="Name" value="Control_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a6d611a57794db4276902611e6e35bf6a"><param name="Name" value="P_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a6d611a57794db4276902611e6e35bf6a"><param name="Name" value="Control_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#ad3d40f1e9ab8ad51ab1d6818f3991fa0"><param name="Name" value="P_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#ad3d40f1e9ab8ad51ab1d6818f3991fa0"><param name="Name" value="Control_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#ad3d40f1e9ab8ad51ab1d6818f3991fa0"><param name="Name" value="P_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#ad3d40f1e9ab8ad51ab1d6818f3991fa0"><param name="Name" value="Control_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#af100e45e4042decc39023ba8b295ca31"><param name="Name" value="PhaseNumber"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#af100e45e4042decc39023ba8b295ca31"><param name="Name" value="SVM_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#adc71928e40bbc9d7457c550f12a110ef"><param name="Name" value="PhaseNumber"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#adc71928e40bbc9d7457c550f12a110ef"><param name="Name" value="Sin_Modulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a5c80104691ad6e8fe00ccb77fd260698"><param name="Name" value="Pi_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a5c80104691ad6e8fe00ccb77fd260698"><param name="Name" value="Control_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a5c80104691ad6e8fe00ccb77fd260698"><param name="Name" value="Pi_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a5c80104691ad6e8fe00ccb77fd260698"><param name="Name" value="Control_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a9f5d1986ef28151e3e7ec46f5fb409d8"><param name="Name" value="Pid_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8c.html#a9f5d1986ef28151e3e7ec46f5fb409d8"><param name="Name" value="Control_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a9f5d1986ef28151e3e7ec46f5fb409d8"><param name="Name" value="Pid_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Control__Functions_8h.html#a9f5d1986ef28151e3e7ec46f5fb409d8"><param name="Name" value="Control_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFSMachines.html#a15415b2c260eec03f1398388f7d3124f"><param name="Name" value="PrevState"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#aca2f749054fb3e30dca3f6a915e86c69"><param name="Name" value="PreviousError1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a62c7172b25b6abe9c4506456d58e6958"><param name="Name" value="PreviousError2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a69f5ae36f1c6c14053e80303767e8541"><param name="Name" value="PreviousError"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFIR.html#a514a2a74407e181728d4641c8a8a490b"><param name="Name" value="PreviousVals"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFIR.html#a514a2a74407e181728d4641c8a8a490b"><param name="Name" value="FIR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html#a29d9baece490cd74c0baefd8911bf195"><param name="Name" value="PreviousVals"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structIIR.html#a29d9baece490cd74c0baefd8911bf195"><param name="Name" value="IIR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html"><param name="Name" value="Prop_Controller"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html"><param name="Name" value="Prop_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#a0e7252e60642da7ad328360b42f6754d"><param name="Name" value="Kp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html"><param name="Name" value="Prop_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#adefef73df9e6482a67c82579bef0444f"><param name="Name" value="MaxLim"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html"><param name="Name" value="Prop_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#af4344503cbd14b6f663bd817f5cf3008"><param name="Name" value="MinLim"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html"><param name="Name" value="Prop_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#abaca0469c8afccc98d0e330a3fd0d587"><param name="Name" value="Reference"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html"><param name="Name" value="Prop_Controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#ae5d128a1a6012ebbeeb88d27392594b5"><param name="Name" value="Result"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structTransforms.html#ad1cb505ed2b697d4a1d6612337d08ff8"><param name="Name" value="Rad_Angle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ae25fb261b6c00888eff2949f631827fd"><param name="Name" value="Reference"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ae25fb261b6c00888eff2949f631827fd"><param name="Name" value="PID_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a644c5fb0a956a79a14b01d6704305da1"><param name="Name" value="Reference"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a644c5fb0a956a79a14b01d6704305da1"><param name="Name" value="PI_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ace0785fe86afc6cc99e47f4117fbfb96"><param name="Name" value="Reference"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ace0785fe86afc6cc99e47f4117fbfb96"><param name="Name" value="PR_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#abaca0469c8afccc98d0e330a3fd0d587"><param name="Name" value="Reference"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#abaca0469c8afccc98d0e330a3fd0d587"><param name="Name" value="Prop_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#af9cb6ea5f2bd15e148d31f0f8d9e708c"><param name="Name" value="ResetValue_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#aacf425202913e1866b9fb3fc20ad0874"><param name="Name" value="ResetValue_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#adf4e1044fc99148d6fa9ebfb1fe507ab"><param name="Name" value="Resettable"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a63c71aa7b453c9b7a42ef3f349f39e8e"><param name="Name" value="Result"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a63c71aa7b453c9b7a42ef3f349f39e8e"><param name="Name" value="PID_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a55ba2e75bf938a7ff00f03dbaf28ff33"><param name="Name" value="Result"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a55ba2e75bf938a7ff00f03dbaf28ff33"><param name="Name" value="PI_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ac39de7fce5cfe8e02cc2ec8f29f3816d"><param name="Name" value="Result"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#ac39de7fce5cfe8e02cc2ec8f29f3816d"><param name="Name" value="PR_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#ae5d128a1a6012ebbeeb88d27392594b5"><param name="Name" value="Result"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structProp__Controller.html#ae5d128a1a6012ebbeeb88d27392594b5"><param name="Name" value="Prop_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#ad4de107f3c3fa9cc14ba08a8a131f7f3"><param name="Name" value="SG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html"><param name="Name" value="SOGI"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html"><param name="Name" value="SOGI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#a9b7ee87d8dff0b212d31aa7fb137b95f"><param name="Name" value="Alpha"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html"><param name="Name" value="SOGI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#a7083617b017de0d8bb7c2ff4dd11b329"><param name="Name" value="Alpha_N1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html"><param name="Name" value="SOGI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#a9281bb5d4328d10c4afa981ae8e860eb"><param name="Name" value="Beta"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html"><param name="Name" value="SOGI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#af1b68fa611149670f8fc002ae93496f9"><param name="Name" value="Beta_N1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html"><param name="Name" value="SOGI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#ae7f76607f2ff33062bd4f780b81df81f"><param name="Name" value="Ke"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html"><param name="Name" value="SOGI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#a55d7ba4868d8859e809ecdd9ffe82030"><param name="Name" value="T"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html"><param name="Name" value="SOGI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#af2ede3c8bee9f1f74c76167b9ebfac0c"><param name="Name" value="wFF"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#ab79fce5a7b9b8f4d78a7a78efe384059"><param name="Name" value="SVM_AlBet"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#a9545ffb01b63ffcc0c138092f1f61509"><param name="Name" value="SVM_ModAngle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html"><param name="Name" value="SVM_Modulation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html"><param name="Name" value="SVM_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#ab42166d3389e2c263ea60d31c923bf00"><param name="Name" value="Alpha"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html"><param name="Name" value="SVM_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a3a770e6ee2a32e0e8319840671420b05"><param name="Name" value="Amplitude"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html"><param name="Name" value="SVM_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a7b95c55e78ddd94137d7b1b18e88dfbd"><param name="Name" value="Angle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html"><param name="Name" value="SVM_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a602f293330b387d1399a9bd199ce1e05"><param name="Name" value="Beta"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html"><param name="Name" value="SVM_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a0225cead0f299e4128c69f2abd796338"><param name="Name" value="DC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html"><param name="Name" value="SVM_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a7c622b4aeae824602d602954f617e51e"><param name="Name" value="DutyCycles"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html"><param name="Name" value="SVM_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#af1284e5482ad4b940239512e6a78b7ef"><param name="Name" value="Frequency"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html"><param name="Name" value="SVM_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#af72e4651077d34a42ef34385d55688ee"><param name="Name" value="IncFrequnecy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html"><param name="Name" value="SVM_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a7d524c7709fdd0f9bf3d4e6833142fbf"><param name="Name" value="MaxDC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html"><param name="Name" value="SVM_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#a8b808e1c2387bde92eb077c7f8f7e99b"><param name="Name" value="MinDC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html"><param name="Name" value="SVM_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSVM__Modulation.html#af100e45e4042decc39023ba8b295ca31"><param name="Name" value="PhaseNumber"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#a978ea75a196a43a8509246c855ad81e9"><param name="Name" value="SatFlag"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a8455d0700f9d1d6b3d36c0e3223e36ec"><param name="Name" value="Saturation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html"><param name="Name" value="Sin_Modulation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html"><param name="Name" value="Sin_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a9f254a0792bb6216af45472d747345b9"><param name="Name" value="Amplitude"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html"><param name="Name" value="Sin_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a0d4bd700508c0141cef2bf49281d1dd7"><param name="Name" value="DC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html"><param name="Name" value="Sin_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#abd66a8168d5949d50f6a1c0f4960fd05"><param name="Name" value="DutyCycles"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html"><param name="Name" value="Sin_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#aac8c0b29e2583b2080c442d7275de2ed"><param name="Name" value="Frequency"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html"><param name="Name" value="Sin_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a71d8dacc4fa9b5144108132c8aa45084"><param name="Name" value="IncFrequency"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html"><param name="Name" value="Sin_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a16f928d11adfd58e94602866e6b66d83"><param name="Name" value="MaxDC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html"><param name="Name" value="Sin_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a2a216913f5e2ed416375cbcb045c5e31"><param name="Name" value="MinDC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html"><param name="Name" value="Sin_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#ac7da94808e3fabd59fba87d3ba78921d"><param name="Name" value="OffSet"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html"><param name="Name" value="Sin_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#a6a597e92429520655a4cc541f007c082"><param name="Name" value="PI_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html"><param name="Name" value="Sin_Modulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSin__Modulation.html#adc71928e40bbc9d7457c550f12a110ef"><param name="Name" value="PhaseNumber"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8c.html#addc19160acf2cd652b6359f087ec90dd"><param name="Name" value="Sinusoidal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8c.html#addc19160acf2cd652b6359f087ec90dd"><param name="Name" value="Modulation_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#addc19160acf2cd652b6359f087ec90dd"><param name="Name" value="Sinusoidal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Modulation__Functions_8h.html#addc19160acf2cd652b6359f087ec90dd"><param name="Name" value="Modulation_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a0b2c355629c0c41a383ab8db641304ee"><param name="Name" value="Start"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFSMachines.html#aee767296b5337e961aa669ee90d6b331"><param name="Name" value="State"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#acb23c7fd95a42fe2062ee90a8aa7c2a7"><param name="Name" value="T"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#acb23c7fd95a42fe2062ee90a8aa7c2a7"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#a909a5f4e593d4627a9d37be99701e0b1"><param name="Name" value="T"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structINTG.html#a909a5f4e593d4627a9d37be99701e0b1"><param name="Name" value="INTG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#a55d7ba4868d8859e809ecdd9ffe82030"><param name="Name" value="T"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#a55d7ba4868d8859e809ecdd9ffe82030"><param name="Name" value="SOGI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a8a0c69ecf72532021844899477111ad6"><param name="Name" value="T_ABC_AlBet"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a8a0c69ecf72532021844899477111ad6"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a8a0c69ecf72532021844899477111ad6"><param name="Name" value="T_ABC_AlBet"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a8a0c69ecf72532021844899477111ad6"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aeb517a10a84416afd61a1faa9d04fcc1"><param name="Name" value="T_ABC_AlBet_PI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aeb517a10a84416afd61a1faa9d04fcc1"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aeb517a10a84416afd61a1faa9d04fcc1"><param name="Name" value="T_ABC_AlBet_PI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aeb517a10a84416afd61a1faa9d04fcc1"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aee73a3fe375dac23d0b71c7e308ff156"><param name="Name" value="T_AlBet_ABC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aee73a3fe375dac23d0b71c7e308ff156"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aee73a3fe375dac23d0b71c7e308ff156"><param name="Name" value="T_AlBet_ABC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aee73a3fe375dac23d0b71c7e308ff156"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a90f4000bfc274cba5750ed6cec840a65"><param name="Name" value="T_AlBet_ABC_PI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a90f4000bfc274cba5750ed6cec840a65"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a90f4000bfc274cba5750ed6cec840a65"><param name="Name" value="T_AlBet_ABC_PI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a90f4000bfc274cba5750ed6cec840a65"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a74dac1cbeabab940d7d389117a02ecf3"><param name="Name" value="T_AlBet_DQ0"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a74dac1cbeabab940d7d389117a02ecf3"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a74dac1cbeabab940d7d389117a02ecf3"><param name="Name" value="T_AlBet_DQ0"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a74dac1cbeabab940d7d389117a02ecf3"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#af5ffeb708826eef1176f12b79b8e627e"><param name="Name" value="T_DQ0_AlBet"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#af5ffeb708826eef1176f12b79b8e627e"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#af5ffeb708826eef1176f12b79b8e627e"><param name="Name" value="T_DQ0_AlBet"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#af5ffeb708826eef1176f12b79b8e627e"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a3f2d091f425b3fe44722728760a6e4b6"><param name="Name" value="T_PRE_CHR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="FiniteStateControl__Functions_8h.html#a437ed09daf7b9ef03f2305a0f88d84eb"><param name="Name" value="T_RESET_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#a37d41274662a6927d65cf637df9f1c09"><param name="Name" value="Td"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structTransforms.html"><param name="Name" value="Transforms"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structTransforms.html"><param name="Name" value="Transforms"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structTransforms.html#adc350e8596273c09bd224ecb25d05836"><param name="Name" value="ABC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structTransforms.html"><param name="Name" value="Transforms"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structTransforms.html#abb6d4d72610d15b36f7bf25d575ec1bf"><param name="Name" value="ABG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structTransforms.html"><param name="Name" value="Transforms"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structTransforms.html#a76bcb83c1b34111fed2368718df00f0c"><param name="Name" value="DQ0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structTransforms.html"><param name="Name" value="Transforms"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structTransforms.html#ad1cb505ed2b697d4a1d6612337d08ff8"><param name="Name" value="Rad_Angle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ad6eb7c204740baa4ed2548e759f2f4af"><param name="Name" value="Ts"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPID__Controller.html#ad6eb7c204740baa4ed2548e759f2f4af"><param name="Name" value="PID_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a92c2233153c4f3278b7351a8ca892fd3"><param name="Name" value="Ts"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPI__Controller.html#a92c2233153c4f3278b7351a8ca892fd3"><param name="Name" value="PI_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#aa6ac7547244fbad7574a409d3cfd2e15"><param name="Name" value="Ts"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#aa6ac7547244fbad7574a409d3cfd2e15"><param name="Name" value="PR_Controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#ad8364c4188aec4c84afabab3a66f5cb1"><param name="Name" value="_2_PI_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a37cc0903dca6a65050b69140287090ea"><param name="Name" value="_PI_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFSMachines.html#adae16b68133eceaa9db0016ca91051cb"><param name="Name" value="_TimeOn"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a200d786aab62f6584e482e3ac879c792"><param name="Name" value="calcFFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a200d786aab62f6584e482e3ac879c792"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a200d786aab62f6584e482e3ac879c792"><param name="Name" value="calcFFSOGI_PLL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a200d786aab62f6584e482e3ac879c792"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a4d40179554ba05de10d7cdc75c90e77a"><param name="Name" value="calcINTG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a4d40179554ba05de10d7cdc75c90e77a"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a4d40179554ba05de10d7cdc75c90e77a"><param name="Name" value="calcINTG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a4d40179554ba05de10d7cdc75c90e77a"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aea4cec3e3d4cd26a1f642c55cd8a6796"><param name="Name" value="calcSOGI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aea4cec3e3d4cd26a1f642c55cd8a6796"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aea4cec3e3d4cd26a1f642c55cd8a6796"><param name="Name" value="calcSOGI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aea4cec3e3d4cd26a1f642c55cd8a6796"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#aa383c023ada3db088a4f09bc78fca4ea"><param name="Name" value="const_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#ae363e7c8d31569bc42a65871a1595777"><param name="Name" value="initFFSOGI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#ae363e7c8d31569bc42a65871a1595777"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#ae363e7c8d31569bc42a65871a1595777"><param name="Name" value="initFFSOGI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#ae363e7c8d31569bc42a65871a1595777"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a29b09249eff700f40d762fa392eb4872"><param name="Name" value="initFIR"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a29b09249eff700f40d762fa392eb4872"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a29b09249eff700f40d762fa392eb4872"><param name="Name" value="initFIR"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a29b09249eff700f40d762fa392eb4872"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a4fe651b2113e79e835be34763de990ba"><param name="Name" value="initIIR"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a4fe651b2113e79e835be34763de990ba"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a4fe651b2113e79e835be34763de990ba"><param name="Name" value="initIIR"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a4fe651b2113e79e835be34763de990ba"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a9e5ba35f6f3bd74c79c52bdb5dd843ad"><param name="Name" value="initINTG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#a9e5ba35f6f3bd74c79c52bdb5dd843ad"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a9e5ba35f6f3bd74c79c52bdb5dd843ad"><param name="Name" value="initINTG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a9e5ba35f6f3bd74c79c52bdb5dd843ad"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aec731479d646228689a3ac90c0bc25e3"><param name="Name" value="initSOGI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8c.html#aec731479d646228689a3ac90c0bc25e3"><param name="Name" value="Acquisition_Functions.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aec731479d646228689a3ac90c0bc25e3"><param name="Name" value="initSOGI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#aec731479d646228689a3ac90c0bc25e3"><param name="Name" value="Acquisition_Functions.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#ab8954551e71a98bdb468d592559421bf"><param name="Name" value="o1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a2dd318a311bffee49cacc8d14f32cc3b"><param name="Name" value="oPLL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="Acquisition__Functions_8h.html#a9ffdb23e324e244345a765a4e3dacd43"><param name="Name" value="resetINTG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#a6150b09ce3c809a31c5b9d3112db3b46"><param name="Name" value="w0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structPR__Controller.html#aae37303a8eefda6567d24df069edb841"><param name="Name" value="wC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a231ff42c912ac7c61de6f7c9e190a13f"><param name="Name" value="wFF"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a231ff42c912ac7c61de6f7c9e190a13f"><param name="Name" value="FFSOGI_PLL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#af2ede3c8bee9f1f74c76167b9ebfac0c"><param name="Name" value="wFF"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structSOGI.html#af2ede3c8bee9f1f74c76167b9ebfac0c"><param name="Name" value="SOGI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#a1ffa337a8930f72e2afd3e9491a2329c"><param name="Name" value="wFF_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structFFSOGI__PLL.html#af647726e8ce021fd6d84a2a8d0b71105"><param name="Name" value="wPLL"></OBJECT>
+</UL>
+</BODY>
+</HTML>
