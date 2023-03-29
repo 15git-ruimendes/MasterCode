@@ -1,0 +1,16 @@
+digraph "FFSOGI_PLL"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="FFSOGI_PLL",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" Integrator" ];
+  Node2 [label="INTG",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$struct_i_n_t_g.html",tooltip=" "];
+  Node3 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" SG" ];
+  Node3 [label="SOGI",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$struct_s_o_g_i.html",tooltip=" "];
+  Node4 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" AlBetDQ" ];
+  Node4 [label="Transforms",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$struct_transforms.html",tooltip="Class used for the execution of the transforms from ABC to AB and DQ spaces."];
+  Node5 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" Controller" ];
+  Node5 [label="PI_Controller",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$struct_p_i___controller.html",tooltip="Structure to create a PI controller."];
+}

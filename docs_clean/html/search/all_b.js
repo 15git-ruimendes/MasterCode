@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['t_5fabc_5falbet_0',['T_ABC_AlBet',['../_acquisition___functions_8h.html#a8a0c69ecf72532021844899477111ad6',1,'T_ABC_AlBet(float *ABC, float *ABG):&#160;Acquisition_Functions.c'],['../_acquisition___functions_8c.html#a8a0c69ecf72532021844899477111ad6',1,'T_ABC_AlBet(float *ABC, float *ABG):&#160;Acquisition_Functions.c']]],
+  ['t_5fabc_5falbet_5fpi_1',['T_ABC_AlBet_PI',['../_acquisition___functions_8h.html#aeb517a10a84416afd61a1faa9d04fcc1',1,'T_ABC_AlBet_PI(float *ABC, float *ABG):&#160;Acquisition_Functions.c'],['../_acquisition___functions_8c.html#aeb517a10a84416afd61a1faa9d04fcc1',1,'T_ABC_AlBet_PI(float *ABC, float *ABG):&#160;Acquisition_Functions.c']]],
+  ['t_5falbet_5fabc_2',['T_AlBet_ABC',['../_acquisition___functions_8h.html#aee73a3fe375dac23d0b71c7e308ff156',1,'T_AlBet_ABC(float *ABG, float *ABC):&#160;Acquisition_Functions.c'],['../_acquisition___functions_8c.html#aee73a3fe375dac23d0b71c7e308ff156',1,'T_AlBet_ABC(float *ABG, float *ABC):&#160;Acquisition_Functions.c']]],
+  ['t_5falbet_5fabc_5fpi_3',['T_AlBet_ABC_PI',['../_acquisition___functions_8h.html#a90f4000bfc274cba5750ed6cec840a65',1,'T_AlBet_ABC_PI(float *ABG, float *ABC):&#160;Acquisition_Functions.c'],['../_acquisition___functions_8c.html#a90f4000bfc274cba5750ed6cec840a65',1,'T_AlBet_ABC_PI(float *ABG, float *ABC):&#160;Acquisition_Functions.c']]],
+  ['t_5falbet_5fdq0_4',['T_AlBet_DQ0',['../_acquisition___functions_8h.html#a74dac1cbeabab940d7d389117a02ecf3',1,'T_AlBet_DQ0(float *ABG, float *DQ0, float Rad_Angle):&#160;Acquisition_Functions.c'],['../_acquisition___functions_8c.html#a74dac1cbeabab940d7d389117a02ecf3',1,'T_AlBet_DQ0(float *ABG, float *DQ0, float Rad_Angle):&#160;Acquisition_Functions.c']]],
+  ['t_5fdq0_5falbet_5',['T_DQ0_AlBet',['../_acquisition___functions_8h.html#af5ffeb708826eef1176f12b79b8e627e',1,'T_DQ0_AlBet(float *DQ0, float *ABG, float Rad_Angle):&#160;Acquisition_Functions.c'],['../_acquisition___functions_8c.html#af5ffeb708826eef1176f12b79b8e627e',1,'T_DQ0_AlBet(float *DQ0, float *ABG, float Rad_Angle):&#160;Acquisition_Functions.c']]],
+  ['transforms_6',['Transforms',['../struct_transforms.html',1,'']]]
+];
