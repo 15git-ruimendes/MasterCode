@@ -1,0 +1,586 @@
+[
+    {
+        "id": "ce57de7a54ecb3a4",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "25585f7cc6d49238",
+        "type": "serial in",
+        "z": "ce57de7a54ecb3a4",
+        "name": "IIS-Rx",
+        "serial": "8c062e813e5f71b0",
+        "x": 310,
+        "y": 240,
+        "wires": [
+            [
+                "5953598523ccfbc8"
+            ]
+        ]
+    },
+    {
+        "id": "5953598523ccfbc8",
+        "type": "function",
+        "z": "ce57de7a54ecb3a4",
+        "name": "IIS-SerialParser",
+        "func": "// Parse serial Rx Buffer\n\nvar buffer = msg.payload;\n\nvar CH1_State = {payload: buffer[0],topic: \"CH1\"};\nvar CH2_State = { payload: buffer[1], topic: \"CH2\"};\nvar CH3_State = { payload: buffer[2], topic: \"CH3\"};\nvar CH4_State = { payload: buffer[3], topic: \"CH4\"};\n\nvar Started = {payload: buffer[4]};\nvar Stoped = { payload: buffer[5]};\n\nreturn [CH1_State,CH2_State,CH3_State,CH4_State,Started,Stoped]",
+        "outputs": 6,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 240,
+        "wires": [
+            [
+                "0a15dce711761e09"
+            ],
+            [
+                "0a15dce711761e09"
+            ],
+            [
+                "0a15dce711761e09"
+            ],
+            [
+                "0a15dce711761e09"
+            ],
+            [
+                "cc66cdcb9a3e882f"
+            ],
+            [
+                "0a3cab22e9c0cdde"
+            ]
+        ]
+    },
+    {
+        "id": "97dc589446d73d4a",
+        "type": "comment",
+        "z": "ce57de7a54ecb3a4",
+        "name": "IIS Protocol",
+        "info": "# IIS Serial Protocol\n\n## For Double Pulse Testing\n\nGeneral Rx Frame - [CH1 State, Ch2 State, Ch3 State, Ch4 State, Started, Stoped]\n\nExpected Tx Frame - [CH1 EN, Ch2 EN, Ch3 EN, Ch4 EN, Start, Stop, Pulse Width, Frequency]",
+        "x": 330,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "b0494c8979246634",
+        "type": "ui_form",
+        "z": "ce57de7a54ecb3a4",
+        "name": "",
+        "label": "Set Up Double Pulse",
+        "group": "c0ef90e08de460cb",
+        "order": 1,
+        "width": 10,
+        "height": 1,
+        "options": [
+            {
+                "label": "CH1 En",
+                "value": "CH1 En",
+                "type": "switch",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "CH2 En",
+                "value": "CH2 En",
+                "type": "switch",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "CH3 En",
+                "value": "CH3 En",
+                "type": "switch",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "CH4 En",
+                "value": "CH4 En",
+                "type": "switch",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Testing Frequency (Hz)",
+                "value": "Freq",
+                "type": "number",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Pulse Width (ms)",
+                "value": "PulseW",
+                "type": "number",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "CH1 En": false,
+            "CH2 En": false,
+            "CH3 En": false,
+            "CH4 En": false,
+            "Freq": "",
+            "PulseW": ""
+        },
+        "payload": "",
+        "submit": "Start",
+        "cancel": "Clear",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "x": 260,
+        "y": 340,
+        "wires": [
+            [
+                "ceb3a70bab897dce"
+            ]
+        ]
+    },
+    {
+        "id": "ceb3a70bab897dce",
+        "type": "function",
+        "z": "ce57de7a54ecb3a4",
+        "name": "Parse Tx",
+        "func": "var buffer = { payload: [+ msg.payload[\"CH1 En\"],+ msg.payload[\"CH2 En\"],+ msg.payload[\"CH3 En\"],+ msg.payload[\"CH4 En\"],msg.payload[\"Freq\"],msg.payload[\"PulseW\"],1]}\n\nbuffer.topic = \"User\"\nreturn [msg,buffer];",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 260,
+        "y": 440,
+        "wires": [
+            [
+                "b0494c8979246634"
+            ],
+            [
+                "64cfb971fbe0aa7d",
+                "f6a45110a5577ed3"
+            ]
+        ]
+    },
+    {
+        "id": "e39142b8067f57cb",
+        "type": "ui_button",
+        "z": "ce57de7a54ecb3a4",
+        "name": "",
+        "group": "c0ef90e08de460cb",
+        "order": 9,
+        "width": 10,
+        "height": 1,
+        "passthru": false,
+        "label": "Stop",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 110,
+        "y": 500,
+        "wires": [
+            [
+                "9a16e9b6f7613dc3"
+            ]
+        ]
+    },
+    {
+        "id": "9a16e9b6f7613dc3",
+        "type": "function",
+        "z": "ce57de7a54ecb3a4",
+        "name": "Parse Stop",
+        "func": "var ret = {payload: [0,0,0,0,0,0,0]};\nreturn ret",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 500,
+        "wires": [
+            [
+                "64cfb971fbe0aa7d"
+            ]
+        ]
+    },
+    {
+        "id": "64cfb971fbe0aa7d",
+        "type": "serial out",
+        "z": "ce57de7a54ecb3a4",
+        "name": "IIS-Tx",
+        "serial": "8c062e813e5f71b0",
+        "x": 550,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "9e8f66169271c437",
+        "type": "inject",
+        "z": "ce57de7a54ecb3a4",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 170,
+        "y": 280,
+        "wires": [
+            [
+                "f15e235ede3fba28"
+            ]
+        ]
+    },
+    {
+        "id": "0a15dce711761e09",
+        "type": "ui_chart",
+        "z": "ce57de7a54ecb3a4",
+        "name": "",
+        "group": "c0ef90e08de460cb",
+        "order": 2,
+        "width": 10,
+        "height": 7,
+        "label": "Channel State",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "step",
+        "nodata": "",
+        "dot": false,
+        "ymin": "-1",
+        "ymax": "2",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 800,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f15e235ede3fba28",
+        "type": "function",
+        "z": "ce57de7a54ecb3a4",
+        "name": "Tester",
+        "func": "msg.payload = [1,1,1,1,1,0]\nmsg.topic = \"IIS\"\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 280,
+        "wires": [
+            [
+                "5953598523ccfbc8",
+                "f6a45110a5577ed3"
+            ]
+        ]
+    },
+    {
+        "id": "cc66cdcb9a3e882f",
+        "type": "ui_led",
+        "z": "ce57de7a54ecb3a4",
+        "order": 12,
+        "group": "c0ef90e08de460cb",
+        "width": 10,
+        "height": 1,
+        "label": "Started",
+        "labelPlacement": "left",
+        "labelAlignment": "center",
+        "colorForValue": [
+            {
+                "color": "#9a9996",
+                "value": "0",
+                "valueType": "num"
+            },
+            {
+                "color": "#26a269",
+                "value": "1",
+                "valueType": "num"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "square",
+        "showGlow": false,
+        "name": "",
+        "x": 790,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "0a3cab22e9c0cdde",
+        "type": "ui_led",
+        "z": "ce57de7a54ecb3a4",
+        "order": 10,
+        "group": "c0ef90e08de460cb",
+        "width": 10,
+        "height": 1,
+        "label": "Stopped",
+        "labelPlacement": "left",
+        "labelAlignment": "center",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "1",
+                "valueType": "num"
+            },
+            {
+                "color": "#c0bfbc",
+                "value": "0",
+                "valueType": "num"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "square",
+        "showGlow": false,
+        "name": "",
+        "x": 790,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "f6a45110a5577ed3",
+        "type": "function",
+        "z": "ce57de7a54ecb3a4",
+        "name": "TerminalBind",
+        "func": "var buf = global.get(\"MessBuf\") \nbuf = \"<br>\" + msg.topic + \"  :\" + String(msg.payload) + \"</br>\" + buf ;\nglobal.set(\"MessBuf\",buf)\nvar ret = {payload: buf};\nreturn ret;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nglobal.set(\"MessBuf\",\"\")",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 400,
+        "wires": [
+            [
+                "b0790af459016af8"
+            ]
+        ]
+    },
+    {
+        "id": "b0790af459016af8",
+        "type": "ui_template",
+        "z": "ce57de7a54ecb3a4",
+        "group": "c0ef90e08de460cb",
+        "name": "Terminal",
+        "order": 14,
+        "width": 20,
+        "height": 4,
+        "format": "<div ng-bind-html=\"msg.payload\" style=\"display: flex;\nflex-direction: column-reverse;\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 800,
+        "y": 400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a9d97ba41ca46ee7",
+        "type": "ui_button",
+        "z": "ce57de7a54ecb3a4",
+        "name": "",
+        "group": "c0ef90e08de460cb",
+        "order": 14,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Clear Terminal",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 480,
+        "y": 540,
+        "wires": [
+            [
+                "37191a21b46b7015"
+            ]
+        ]
+    },
+    {
+        "id": "37191a21b46b7015",
+        "type": "function",
+        "z": "ce57de7a54ecb3a4",
+        "name": "function 1",
+        "func": "global.set(\"MessBuf\",\"\");\nmsg.payload = \"\"\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 540,
+        "wires": [
+            [
+                "b0790af459016af8"
+            ]
+        ]
+    },
+    {
+        "id": "4c47273af45f78a2",
+        "type": "ui_spacer",
+        "z": "ce57de7a54ecb3a4",
+        "name": "spacer",
+        "group": "c0ef90e08de460cb",
+        "order": 3,
+        "width": 10,
+        "height": 1
+    },
+    {
+        "id": "2ca90a924ccb10dc",
+        "type": "ui_spacer",
+        "z": "ce57de7a54ecb3a4",
+        "name": "spacer",
+        "group": "c0ef90e08de460cb",
+        "order": 4,
+        "width": 10,
+        "height": 1
+    },
+    {
+        "id": "224bc5b4023d271f",
+        "type": "ui_spacer",
+        "z": "ce57de7a54ecb3a4",
+        "name": "spacer",
+        "group": "c0ef90e08de460cb",
+        "order": 5,
+        "width": 10,
+        "height": 1
+    },
+    {
+        "id": "f125dc1bd67ef27a",
+        "type": "ui_spacer",
+        "z": "ce57de7a54ecb3a4",
+        "name": "spacer",
+        "group": "c0ef90e08de460cb",
+        "order": 6,
+        "width": 10,
+        "height": 1
+    },
+    {
+        "id": "51f5dc09b7d7a53c",
+        "type": "ui_spacer",
+        "z": "ce57de7a54ecb3a4",
+        "name": "spacer",
+        "group": "c0ef90e08de460cb",
+        "order": 7,
+        "width": 10,
+        "height": 1
+    },
+    {
+        "id": "6511af9710f57fee",
+        "type": "ui_spacer",
+        "z": "ce57de7a54ecb3a4",
+        "name": "spacer",
+        "group": "c0ef90e08de460cb",
+        "order": 8,
+        "width": 10,
+        "height": 1
+    },
+    {
+        "id": "4a86084f49ee8b14",
+        "type": "ui_spacer",
+        "z": "ce57de7a54ecb3a4",
+        "name": "spacer",
+        "group": "c0ef90e08de460cb",
+        "order": 11,
+        "width": 10,
+        "height": 1
+    },
+    {
+        "id": "9eecf176e281597c",
+        "type": "ui_spacer",
+        "z": "ce57de7a54ecb3a4",
+        "name": "spacer",
+        "group": "c0ef90e08de460cb",
+        "order": 13,
+        "width": 20,
+        "height": 1
+    },
+    {
+        "id": "8c062e813e5f71b0",
+        "type": "serial-port",
+        "serialport": "/dev/ttyUSB0",
+        "serialbaud": "57600",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "c0ef90e08de460cb",
+        "type": "ui_group",
+        "name": "Double Pulse Testing",
+        "tab": "b35ceb05a6687923",
+        "order": 1,
+        "disp": true,
+        "width": "20",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b35ceb05a6687923",
+        "type": "ui_tab",
+        "name": "Double Pulse",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    }
+]
